@@ -2,18 +2,7 @@
   "name": "sigmaball-for-powerball-web",
   "version": "1.0.0",
   "description": "Official landing page, privacy policy, and app-ads.txt for SigmaBall for Powerball (com.sigmaball.app)",
-  "scripts": {
-    "build": "python scripts/verify.py",
-    "test": "python scripts/verify.py",
-    "start": "python -m http.server 8080"
-  },
-  "keywords": [
-    "sigmaball",
-    "powerball",
-    "privacy-policy",
-    "app-ads-txt",
-    "google-play"
-  ],
-  "author": "YOUR_ENGLISH_BUSINESS_NAME",
+  "private": true,
+  "author": "Cho Yeon Planning",
   "license": "UNLICENSED"
 }

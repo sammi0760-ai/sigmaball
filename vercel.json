@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/privacy/sigmaball", "destination": "/privacy/sigmaball/index.html" },
+    { "source": "/app-ads.txt", "destination": "/app-ads.txt" }
+  ]
+}
