@@ -1,0 +1,14 @@
+# ==============================================================================
+# app-ads.txt for SigmaBall for Powerball (com.sigmaball.app)
+# IAB Tech Lab Authorized Sellers for Apps Specification
+# ==============================================================================
+#
+# INSTRUCTIONS FOR DEVELOPER:
+# 1. Log in to your Google AdMob Console (https://apps.admob.com).
+# 2. Go to "Apps" -> "app-ads.txt" tab.
+# 3. Copy your publisher snippet (e.g., google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0).
+# 4. Replace the placeholder line below with your copied line.
+#
+# ==============================================================================
+
+YOUR_ADMOB_APP_ADS_TXT_LINE
